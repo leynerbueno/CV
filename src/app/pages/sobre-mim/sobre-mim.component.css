@@ -1,0 +1,10 @@
+.box {
+    width: 84vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+h5 {
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.radio {
+    color: white;
+    display:flex;
+    margin-right: 10%;
+}
+
+#pt-label {
+    margin-right: 50%;
+}
